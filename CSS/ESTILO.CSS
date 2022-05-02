@@ -1,0 +1,36 @@
+body{
+  color:white;
+  background:url(../fondobody.jpg);
+  text-shadow: 2px 2px 2px black;
+}
+
+h1{
+  font-size:75px ;
+  font-family: fantasy ;
+  text-decoration: underline;
+  text-align: center;
+
+}
+img{
+  display: block;
+  margin:auto;
+  border: 10px solid white;
+  }
+ h2 {font-size: : 50px;
+  text-decoration:underline;
+}
+h4 {
+   font-size: :200px;
+ text-decoration:underline;
+}
+h5{
+  font-size: : 100px;
+ text-decoration:underline;
+ text-align: center;
+}
+
+iframe{
+  display: block;
+  margin:auto;
+  border: 10px solid white;
+}
